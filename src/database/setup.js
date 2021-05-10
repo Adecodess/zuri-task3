@@ -2,13 +2,13 @@
 const mongoose = require("mongoose");
 // setup enviroment variable
 require("dotenv").config();
-const { MONGO_URI } = process.env;
+const { MONGO_URL } = process.env;
 
 // connect mnogoose to database
 
 const connectDB = async () => {
   try {
-    await mongoose.connect(MONGO_URI, {
+    await mongoose.connect(MONGO_URL, {
       useNewUrlParser: true,
       useCreateIndex: true,
       useUnifiedTopology: true,
