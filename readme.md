@@ -26,11 +26,11 @@
 # Queries
 ###### The server supports several crud operations using the appropriate CRUD Verbs
 
-###### Schemas
-# The schemas is in the models/directory
+ # Schemas
+###### The schemas is in the models/directory
 
-###### HEROKU Link
-# A link to the live app can be find here    [https://guarded-lowlands-44734.herokuapp.com/](url)
+# HEROKU Link
+###### A link to the live app can be find here    [https://guarded-lowlands-44734.herokuapp.com/](url)
 
 
 
