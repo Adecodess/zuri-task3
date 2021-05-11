@@ -5,3 +5,7 @@
 -> create src folder where all the folders and files are going to be
 -> create and index.js fie as the entry point
 -> create database folder and setup mongoose and database connections
+-> Test all routes with postman 
+-> Deploy to heroku.
+
+# Gettimg Started
